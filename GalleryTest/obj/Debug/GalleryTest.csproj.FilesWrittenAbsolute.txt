@@ -1,0 +1,7 @@
+/Users/xet/Documents/Development/GalleryTest/GalleryTest/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/xet/Documents/Development/GalleryTest/GalleryTest/bin/Debug/Xamarin.Forms.Core.dll
+/Users/xet/Documents/Development/GalleryTest/GalleryTest/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/xet/Documents/Development/GalleryTest/GalleryTest/bin/Debug/GalleryTest.dll.mdb
+/Users/xet/Documents/Development/GalleryTest/GalleryTest/bin/Debug/GalleryTest.dll
+/Users/xet/Documents/Development/GalleryTest/GalleryTest/obj/Debug/GalleryTest.dll
+/Users/xet/Documents/Development/GalleryTest/GalleryTest/obj/Debug/GalleryTest.dll.mdb
